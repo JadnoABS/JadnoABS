@@ -10,7 +10,7 @@
 - IoT
 
 #
-Currently @ Elo7 - Backend Developer (since 2025)\
+Worked @ Elo7 - Backend Developer (2025 - 2026)\
 Worked @ MAPS S.A - Backend Development Intern (2023 - 2024)\
 Worked @ Síntese Jr. - Backend Developer (2021 - 2022)
 
